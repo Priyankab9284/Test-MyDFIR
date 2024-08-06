@@ -51,6 +51,3 @@ To secure a career as an IT Security Analyst in an environment where I can apply
 - **CySA+** - CompTIA Cybersecurity Analyst
 - **CEH** - Certified Ethical Hacker
 
-## Contact Information
-- **Email**: priyankab9284@gmail.com
-- **Phone**: +1 (647) 848-3919
